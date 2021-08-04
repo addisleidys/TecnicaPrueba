@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaTecnica", "PruebaTecnica\PruebaTecnica.csproj", "{91C82756-3F47-4993-8C50-9CDB1CB4BE5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumeWEPAPI", "ConsumeWEPAPI\ConsumeWEPAPI.csproj", "{FEEFC30D-6958-4205-A2A4-DE01E4D4D91C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91C82756-3F47-4993-8C50-9CDB1CB4BE5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91C82756-3F47-4993-8C50-9CDB1CB4BE5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91C82756-3F47-4993-8C50-9CDB1CB4BE5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91C82756-3F47-4993-8C50-9CDB1CB4BE5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEEFC30D-6958-4205-A2A4-DE01E4D4D91C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEEFC30D-6958-4205-A2A4-DE01E4D4D91C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEEFC30D-6958-4205-A2A4-DE01E4D4D91C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEEFC30D-6958-4205-A2A4-DE01E4D4D91C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A153852-7D22-4A6D-944A-DF92B34F5519}
+	EndGlobalSection
+EndGlobal
